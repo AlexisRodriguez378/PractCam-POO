@@ -1,9 +1,6 @@
 package PracticaPOO;
-
 import java.util.Scanner;
-
 public class Pregunta2_ManejoErrores {
-    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
